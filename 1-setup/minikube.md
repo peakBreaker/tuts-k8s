@@ -11,7 +11,6 @@ Since I am running Arch, I install from AUR with the following:
 
 ```
 $ yay -S  minikube
-$ yay -S kubectl
 ```
 
 Minikube also needs virtualization to be enabled for the OS on the machine. It
